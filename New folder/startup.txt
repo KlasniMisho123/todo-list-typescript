@@ -1,8 +1,0 @@
-npm init -y ||| startup package.json
-npm i --save-dev typescript ||| install modules
-npx tsc --init ||| ts-config
-
------- main line -----
-
-npm init vite@latest ts-project-tryout
-npm init vite@latest ts-project-tryout -- --template vanilla-ts
